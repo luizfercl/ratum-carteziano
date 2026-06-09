@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"chao","order":2,"path":"objects/chao/chao.yy",},
+    {"name":"parede","order":7,"path":"objects/parede/parede.yy",},
+    {"name":"pedaco","order":8,"path":"objects/pedaco/pedaco.yy",},
+    {"name":"persona","order":11,"path":"objects/persona/persona.yy",},
+    {"name":"player","order":1,"path":"objects/player/player.yy",},
+    {"name":"Room2","order":3,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Sprite1","order":4,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite2","order":5,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":6,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite4","order":9,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite5","order":10,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":12,"path":"sprites/Sprite6/Sprite6.yy",},
+  ],
+}
