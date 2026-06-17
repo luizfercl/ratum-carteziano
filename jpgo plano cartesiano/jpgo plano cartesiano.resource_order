@@ -13,5 +13,7 @@
     {"name":"Sprite4","order":9,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Sprite5","order":10,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Sprite6","order":12,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite7","order":13,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite8","order":14,"path":"sprites/Sprite8/Sprite8.yy",},
   ],
 }

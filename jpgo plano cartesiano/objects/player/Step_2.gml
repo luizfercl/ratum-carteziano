@@ -15,9 +15,9 @@ var _col = instance_place(x + vlch, y, parede);
 	}
 	x += vlch;
 
-var _col = instance_place(x, y + vlcv, chao);
-	if (_col)
-{	
+var _coli= instance_place(x, y + vlcv, chao);
+	if (_coli)
+	{	
 	if (vlcv > 0)
 	{
 		
