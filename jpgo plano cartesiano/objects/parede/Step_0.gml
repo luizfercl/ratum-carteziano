@@ -1,4 +1,4 @@
-if (place_meeting(x-10, y, player)){
+if (place_meeting(x-10, y, bullet)){
     caindo = true;
 }
 
